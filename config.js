@@ -1,10 +1,10 @@
 module.exports = {
-  TOKEN: "",
-  ownerID: ["752922497657208976", ""],
+  TOKEN: "MTMyOTA3OTY1Mjc5NDQ5OTA4Mg.Gj8X9N.M40yD4VEaDRHvf8S6-tqsTG2_z8hK82bncTEos",
+  ownerID: ["1127315837385183413", ""],
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'oof',
+  status: 'on',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
@@ -17,8 +17,8 @@ module.exports = {
   },
 
   voteManager: {
-    status: false,
-    api_key: "",
+    status: true,
+    api_key: "AIzaSyBA749j1fyj9taFDRL26kauKWw3Q3kxCd0",
     vote_commands: ["back", "channel", "clear", "dj", "filter", "loop", "nowplaying", "pause", "playnormal", "playlist", "queue", "resume", "save", "play", "skip", "stop", "time", "volume"],
     vote_url: "",
   },
